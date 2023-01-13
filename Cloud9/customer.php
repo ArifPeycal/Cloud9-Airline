@@ -38,7 +38,7 @@ td {
 <body>
   
     <div class="container-md mt-2">
-        <h2 class="display-4 text-center text-secondary">List of Clients</h2>
+        <h2 class="display-4 text-center text-secondary">List of Customers</h2>
         <a class="btn btn-primary" href ="/Cloud9/create.php" role = "button">New Client</a>
         <br>
         <table class = "table table-sm table-bordered">
